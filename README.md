@@ -86,3 +86,6 @@ The site shows:
 - The full lineage graph (raw → staging → intermediate → the star → snapshot)
 - Model and column descriptions from the YAMLs
 - Which columns carry tests
+
+## The Dataset
+A year of real job postings (Data Engineer, Data Analyst, Data Scientist roles) collected by Luke Barousse's datanerd.tech pipeline, July 2025 - June 2026.
